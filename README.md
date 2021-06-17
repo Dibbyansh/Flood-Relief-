@@ -1,5 +1,6 @@
 # Flood-Relief-
 My Objective of designing this website is to gather donation  to help the victims affected by flood in India .  
+Your little contribution can bring smile to millions, grant them good health and sanitation post flood and make their livelihood sustain.
 
 WEBSITE LINK : -  https://dibbyansh.github.io/Flood-Relief-/   
 
